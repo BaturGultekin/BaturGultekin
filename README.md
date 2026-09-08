@@ -8,7 +8,7 @@
 
 📍 New Haven, CT --> New York, NY
 
-🧬 Incoming PhD Student in Biomedical Sciences, AI and Emerging Technologies in Medicine @ Icahn School of Medicine at Mount Sinai
+🧬 PhD Student in Biomedical Sciences, AI and Emerging Technologies in Medicine @ Icahn School of Medicine at Mount Sinai
 
 📊 M.S. Data Science @ University of Connecticut
 
