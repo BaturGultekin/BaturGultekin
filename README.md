@@ -4,11 +4,13 @@
   </a>
 </h1>
 
-# 👋 Hi, I'm Batur Gültekin AKA BG
+# 👋 Hi, I'm Batur Gültekin a.k.a. BG
 
 📍 New York, NY
 
-🧬 PhD Student in Biomedical Sciences, AI and Emerging Technologies in Medicine @ Icahn School of Medicine at Mount Sinai
+🧬 PhD Student, AI and Emerging Technologies in Medicine @ Icahn School of Medicine at Mount Sinai
+ 
+⚕️ Ex - Postgraduate Research Scholar / Research Affiliate @ Yale University School of Medicine  
 
 📊 M.S. Data Science @ University of Connecticut
 
@@ -29,7 +31,7 @@
   <a href="https://github.com/BaturGultekin">
     <img src="https://img.shields.io/badge/GitHub-BaturGultekin-black?logo=github&logoColor=white" />
   </a>
-  <a href="mailto:batur.gultekin@yale.edu">
+  <a href="mailto:batur.gultekin@icahn.mssm.edu">
     <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -38,7 +40,7 @@
 
 ## 🔬 About Me
 
-I am a computational biologist and data scientist working at the intersection of genomics, multi-omics, quantitative pathology, and translational medicine. My research focuses on using high-dimensional biological data to understand disease mechanisms in brain tumors, vascular disease, and intracranial aneurysms.
+I am a computational biologist and data scientist working at the intersection of AI, genomics, multi-omics, quantitative pathology, and translational medicine. My research focuses on using high-dimensional biological data to understand disease mechanisms in brain tumors, vascular disease, and intracranial aneurysms.
 
 I trained in both Molecular Biology, Genetics and Bioengineering and Computer Science and Engineering at Sabancı University, then continued my research training at Yale School of Medicine in the Günel Lab. At Yale, I worked on cancer and vascular disease genetics, single-cell and spatial omics, patient-derived organoid models, and computational pathology.
 
@@ -82,7 +84,7 @@ I am also a former student-athlete and continue to enjoy basketball. I value men
 
 ## 📫 Contact
 
-- Email: **batur.gultekin@yale.edu**
+- Email: **batur.gultekin@icahn.mssm.edu**
 - Google Scholar: **https://scholar.google.com/citations?user=Ii8GHacAAAAJ**
 - ORCID: **https://orcid.org/0009-0002-9630-4967**
 - LinkedIn: **https://www.linkedin.com/in/baturgultekin**
