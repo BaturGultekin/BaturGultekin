@@ -38,9 +38,9 @@
 
 ## 🔬 About Me
 
-I am a computational biologist and data scientist working at the intersection of AI, genomics, multi-omics, quantitative pathology, and translational medicine. My research focuses on using high-dimensional biological data to understand disease mechanisms in brain tumors, vascular disease, and intracranial aneurysms.
+I am a computational biologist and data scientist working at the intersection of artificial intelligence, multi-omics, and translational medicine. My research focuses on leveraging high-dimensional biological data and computational approaches to better understand disease mechanisms.
 
-I trained in both Molecular Biology, Genetics and Bioengineering and Computer Science and Engineering at Sabancı University, then continued my research training at Yale School of Medicine in the Günel Lab. At Yale, I worked on cancer and vascular disease genetics, single-cell and spatial omics, patient-derived organoid models, and computational pathology.
+I am currently a PhD student in Artificial Intelligence and Emerging Technologies in Medicine at the Icahn School of Medicine at Mount Sinai. I received my MS in Data Science from the University of Connecticut and completed postgraduate training at Yale University. My interdisciplinary background also includes undergraduate training in Molecular Biology, Genetics and Bioengineering, as well as Computer Science and Engineering, at Sabancı University.
 
 My current goal is to develop transparent, reusable, and clinically grounded computational pipelines that connect patient-derived specimens to mechanistic and testable biological hypotheses.
 
@@ -56,12 +56,6 @@ My current goal is to develop transparent, reusable, and clinically grounded com
 
 - **PPIL4 is Essential for Brain Angiogenesis and Implicated in Intracranial Aneurysms in Humans**  
   *Nature Medicine*, 2021
-
-- **Somatic SMARCB1 Mutation in Spinal Meningioma Represents Branched Evolution in a Patient With Multiple Sporadic Meningiomas**  
-  *Neuro-Oncology Advances*, 2025
-
-- **Genomic Characterization of a Rare Skull-Base Plasmacytoma**  
-  *Frontiers in Oncology*, 2025
 
 ---
 
