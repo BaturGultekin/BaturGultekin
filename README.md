@@ -6,8 +6,6 @@
 
 # 👋 Hi, I'm Batur Gültekin a.k.a. BG
 
-📍 New York, NY
-
 🧬 PhD Student, AI and Emerging Technologies in Medicine @ Icahn School of Medicine at Mount Sinai
  
 ⚕️ Ex - Postgraduate Research Scholar / Research Affiliate @ Yale University School of Medicine  
